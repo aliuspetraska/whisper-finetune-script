@@ -1,0 +1,15 @@
+huggingface-hub
+torchvision
+torchaudio
+datasets
+transformers
+torch
+evaluate
+tensorboard
+jiwer
+accelerate
+soundfile
+librosa
+deepspeed
+gradio
+torchinfo
